@@ -150,6 +150,9 @@ a{
     text-decoration: none;
   }
 
+  .mountainImg{
+    width: 50%;
+  }
 
 .profileRow{
     margin: auto;
