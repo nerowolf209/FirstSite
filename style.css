@@ -1,0 +1,181 @@
+/* Tags */
+
+body {
+    background-color: rgb(204, 204, 204);
+    /*font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;*/
+    font-family: 'Merriweather', serif;
+    margin: 0;
+}
+h1 {
+    color:#66BFBF;
+    font-family: 'Sacramento', cursive;
+    font-size: 3.75rem;
+    margin: 50px auto 0px auto;
+}
+
+h2{
+    color:#66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    font-weight: normal;
+}
+
+h3{
+    color:#66BFBF;
+    font-family: 'Montserrat', sans-serif;
+}
+
+p{
+    font-size: 12px;
+}
+
+a{
+    color:#11999E;
+}
+
+
+/* class */
+.mainContainer{
+    background-color: #E4F9F5;
+    border: 3px;
+    margin: auto;
+    width: 75%;
+    padding: 10px;
+}
+
+.headerContainer{
+    margin: auto;
+    text-align: center;
+    height: 50%;
+    position: relative;
+}
+
+.profileContainer{
+    margin: auto;
+    text-align: center;
+    height: 50%;
+    position: relative;
+    padding-top: 8%;
+}
+
+.skillsContainer{
+    margin: 50px auto 50px auto;
+    text-align: left;
+    height: 50%;
+    width: 50%;
+    line-height: 2;
+    position: relative;
+}
+
+.bottomContainer{
+    margin: auto;
+    text-align: center;
+    height: 50%;
+    position: relative;
+}
+
+.linkContainer{
+    background-color: #66BFBF;
+    margin: 50px auto;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    text-align: center;
+    height: 50%;
+    position: relative;
+}
+
+.top-cloud{
+    position:absolute;
+    top: 3%;
+    right: 20%;
+    opacity: 50%;
+}
+.bottom-cloud{
+    position:absolute;
+    left: 20%;
+    bottom: 320px;
+    opacity: 50%;
+}
+
+.profilePicture{
+    border-radius: 100%;
+    width: 80px;
+    height: 80px;
+
+}
+
+.codeImg{
+    width: 25%;
+    float:left;
+    margin-right: 30px;
+}
+
+.outdoorImg{
+    width: 25%;
+    float:right;
+    margin-left: 30px;
+}
+
+.skillHeader{
+    text-align: center;
+}
+
+.contactHeader{
+    text-align: center;
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+
+  .mountainImg{
+    width: 50%;
+  }
+
+.profileRow{
+    margin: auto;
+    width: 50%;
+}
+
+/*
+.skillsRow{
+
+}
+*/
+
+.contactRow{
+    margin: 50px auto;
+    width: 50%;
+}
+
+.footerLink{
+    color: #11999E;
+}
+
+.copywriteText{
+    color: #EAF6F6;
+}
+
+/* id */ 
